@@ -24,17 +24,19 @@ def optimal_number(folder_path):
     return res
 
 
-def store_data(folder_name, folder_path):
+def store_data(folder_name, folder_path, c):
     most_common_elem = optimal_number(folder_path)
     stra = f'{folder_name}: {most_common_elem}'
     file_path = 'output.txt'
     with open(file_path, 'a') as file:
         file.write(stra + '\n')
-    print(f'{folder_name} done')
+    print(f'{folder_name} done, total completion {(c / 71) * 100}%')
 
 
 # store_data()
 folderpath = 'Dataset'
+c = 0
 for subfolder in os.listdir(folderpath):
+    c += 1
     subfolder_path = os.path.join(folderpath, subfolder)
-    store_data(subfolder, subfolder_path)
+    store_data(subfolder, subfolder_path, c)
