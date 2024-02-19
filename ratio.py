@@ -1,13 +1,11 @@
 import pandas as pd
 import os
-from collections import Counter
 
-# List to store the counts for each file
-counts_list = []
 
 
 # Iterate through each file in the folder
 def ratio(folder_path):
+    ratio_list = []
     for filename in os.listdir(folder_path):
         if filename.endswith(".txt"):
             file_path = os.path.join(folder_path, filename)
@@ -17,16 +15,15 @@ def ratio(folder_path):
             diff_x = round(df['x'].max() - df['x'].min(), 2)
             diff_y = round(df['y'].max() - df['y'].min(), 2)
             res = round(diff_x / diff_y, 2)
+            ratio_list.append(res)
 
-    # Print or use the counts_list as needed
 
-    # Use the most_common(1) method to get the most common element
-    return res
+    return [min(ratio_list),max(ratio_list)]
 
 
 def store_data(folder_name, folder_path, c):
     data = ratio(folder_path)
-    stra = f'{folder_name}: {data}'
+    stra = f'{folder_name}: {data[0]}-{data[1]}'
     file_path = 'ratio.txt'
     with open(file_path, 'a') as file:
         file.write(stra + '\n')
@@ -40,6 +37,3 @@ for subfolder in os.listdir(folderpath):
     c += 1
     subfolder_path = os.path.join(folderpath, subfolder)
     store_data(subfolder, subfolder_path, c)
-
-
-
