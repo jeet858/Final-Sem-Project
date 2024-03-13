@@ -20,7 +20,8 @@ def plot_data(sub_folder_path, sub_folder_name):
             x_values = [point[0] for point in all_points]
             y_values = [point[1] for point in all_points]
 
-            plt.plot(x_values, y_values)
+            plt.scatter(x_values, y_values)
+            plt.gca().invert_yaxis()
             plt.title('Scatter Plot of Points')
             plt.xlabel('X')
             plt.ylabel('Y')
