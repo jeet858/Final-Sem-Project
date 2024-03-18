@@ -1,0 +1,71 @@
+Folder Name==0__, Optimal Strokes==1, Total Test Cases==477, Total Test Cases With Optimal Strokes==475, Detailed Data of Test cases=={1: 475, 2: 2}
+Folder Name==1__, Optimal Strokes==1, Total Test Cases==477, Total Test Cases With Optimal Strokes==471, Detailed Data of Test cases=={1: 471, 2: 4, 3: 2}
+Folder Name==2__, Optimal Strokes==1, Total Test Cases==477, Total Test Cases With Optimal Strokes==475, Detailed Data of Test cases=={1: 475, 2: 2}
+Folder Name==3__, Optimal Strokes==1, Total Test Cases==477, Total Test Cases With Optimal Strokes==472, Detailed Data of Test cases=={1: 472, 2: 5}
+Folder Name==4__, Optimal Strokes==1, Total Test Cases==477, Total Test Cases With Optimal Strokes==474, Detailed Data of Test cases=={1: 474, 2: 3}
+Folder Name==5__, Optimal Strokes==1, Total Test Cases==477, Total Test Cases With Optimal Strokes==460, Detailed Data of Test cases=={1: 460, 2: 15, 3: 2}
+Folder Name==6__, Optimal Strokes==1, Total Test Cases==477, Total Test Cases With Optimal Strokes==465, Detailed Data of Test cases=={1: 465, 2: 10, 3: 2}
+Folder Name==7__, Optimal Strokes==1, Total Test Cases==477, Total Test Cases With Optimal Strokes==464, Detailed Data of Test cases=={1: 464, 2: 12, 3: 1}
+Folder Name==8__, Optimal Strokes==1, Total Test Cases==477, Total Test Cases With Optimal Strokes==457, Detailed Data of Test cases=={1: 457, 2: 18, 3: 2}
+Folder Name==9__, Optimal Strokes==1, Total Test Cases==477, Total Test Cases With Optimal Strokes==464, Detailed Data of Test cases=={1: 464, 2: 10, 3: 2, 6: 1}
+Folder Name==AA_, Optimal Strokes==2, Total Test Cases==477, Total Test Cases With Optimal Strokes==171, Detailed Data of Test cases=={2: 171, 3: 134, 4: 97, 5: 49, 6: 21, 7: 5}
+Folder Name==AN_, Optimal Strokes==2, Total Test Cases==477, Total Test Cases With Optimal Strokes==472, Detailed Data of Test cases=={1: 1, 2: 472, 3: 4}
+Folder Name==A__, Optimal Strokes==3, Total Test Cases==477, Total Test Cases With Optimal Strokes==206, Detailed Data of Test cases=={2: 204, 3: 206, 4: 59, 5: 7, 6: 1}
+Folder Name==BB_, Optimal Strokes==1, Total Test Cases==477, Total Test Cases With Optimal Strokes==393, Detailed Data of Test cases=={1: 393, 2: 75, 3: 9}
+Folder Name==BH_, Optimal Strokes==2, Total Test Cases==477, Total Test Cases With Optimal Strokes==289, Detailed Data of Test cases=={1: 152, 2: 289, 3: 32, 4: 3, 5: 1}
+Folder Name==BI_, Optimal Strokes==2, Total Test Cases==477, Total Test Cases With Optimal Strokes==475, Detailed Data of Test cases=={2: 475, 3: 2}
+Folder Name==B__, Optimal Strokes==1, Total Test Cases==477, Total Test Cases With Optimal Strokes==373, Detailed Data of Test cases=={1: 373, 2: 94, 3: 9, 4: 1}
+Folder Name==CH_, Optimal Strokes==2, Total Test Cases==477, Total Test Cases With Optimal Strokes==337, Detailed Data of Test cases=={1: 107, 2: 337, 3: 28, 4: 4, 6: 1}
+Folder Name==CN_, Optimal Strokes==2, Total Test Cases==477, Total Test Cases With Optimal Strokes==467, Detailed Data of Test cases=={2: 467, 3: 9, 4: 1}
+Folder Name==C__, Optimal Strokes==2, Total Test Cases==477, Total Test Cases With Optimal Strokes==341, Detailed Data of Test cases=={1: 109, 2: 341, 3: 27}
+Folder Name==DDH, Optimal Strokes==2, Total Test Cases==477, Total Test Cases With Optimal Strokes==341, Detailed Data of Test cases=={1: 111, 2: 341, 3: 24, 4: 1}
+Folder Name==DD_, Optimal Strokes==2, Total Test Cases==477, Total Test Cases With Optimal Strokes==318, Detailed Data of Test cases=={1: 144, 2: 318, 3: 14, 4: 1}
+Folder Name==DHR, Optimal Strokes==3, Total Test Cases==477, Total Test Cases With Optimal Strokes==327, Detailed Data of Test cases=={2: 131, 3: 327, 4: 15, 5: 4}
+Folder Name==DH_, Optimal Strokes==1, Total Test Cases==477, Total Test Cases With Optimal Strokes==192, Detailed Data of Test cases=={1: 192, 2: 187, 3: 91, 4: 6, 5: 1}
+Folder Name==DR_, Optimal Strokes==3, Total Test Cases==477, Total Test Cases With Optimal Strokes==290, Detailed Data of Test cases=={2: 175, 3: 290, 4: 12}
+Folder Name==D__, Optimal Strokes==2, Total Test Cases==477, Total Test Cases With Optimal Strokes==357, Detailed Data of Test cases=={1: 104, 2: 357, 3: 16}
+Folder Name==EN_, Optimal Strokes==2, Total Test Cases==477, Total Test Cases With Optimal Strokes==430, Detailed Data of Test cases=={2: 430, 3: 41, 4: 6}
+Folder Name==E__, Optimal Strokes==1, Total Test Cases==477, Total Test Cases With Optimal Strokes==411, Detailed Data of Test cases=={1: 411, 2: 56, 3: 10}
+Folder Name==GH_, Optimal Strokes==1, Total Test Cases==477, Total Test Cases With Optimal Strokes==252, Detailed Data of Test cases=={1: 252, 2: 175, 3: 42, 4: 7, 5: 1}
+Folder Name==G__, Optimal Strokes==2, Total Test Cases==477, Total Test Cases With Optimal Strokes==271, Detailed Data of Test cases=={1: 73, 2: 271, 3: 110, 4: 23}
+Folder Name==H__, Optimal Strokes==2, Total Test Cases==477, Total Test Cases With Optimal Strokes==330, Detailed Data of Test cases=={1: 119, 2: 330, 3: 26, 4: 2}
+Folder Name==II_, Optimal Strokes==3, Total Test Cases==477, Total Test Cases With Optimal Strokes==245, Detailed Data of Test cases=={2: 190, 3: 245, 4: 37, 5: 2, 6: 2, 7: 1}
+Folder Name==I__, Optimal Strokes==3, Total Test Cases==477, Total Test Cases With Optimal Strokes==238, Detailed Data of Test cases=={1: 1, 2: 209, 3: 238, 4: 29}
+Folder Name==JH_, Optimal Strokes==2, Total Test Cases==477, Total Test Cases With Optimal Strokes==309, Detailed Data of Test cases=={1: 26, 2: 309, 3: 110, 4: 25, 5: 6, 6: 1}
+Folder Name==J__, Optimal Strokes==3, Total Test Cases==477, Total Test Cases With Optimal Strokes==255, Detailed Data of Test cases=={1: 30, 2: 182, 3: 255, 4: 8, 5: 2}
+Folder Name==KH_, Optimal Strokes==1, Total Test Cases==477, Total Test Cases With Optimal Strokes==378, Detailed Data of Test cases=={1: 378, 2: 77, 3: 21, 4: 1}
+Folder Name==KT_, Optimal Strokes==1, Total Test Cases==477, Total Test Cases With Optimal Strokes==441, Detailed Data of Test cases=={1: 441, 2: 33, 3: 3}
+Folder Name==K__, Optimal Strokes==1, Total Test Cases==477, Total Test Cases With Optimal Strokes==253, Detailed Data of Test cases=={1: 253, 2: 189, 3: 35}
+Folder Name==L__, Optimal Strokes==1, Total Test Cases==477, Total Test Cases With Optimal Strokes==232, Detailed Data of Test cases=={1: 232, 2: 189, 3: 54, 4: 2}
+Folder Name==MN_, Optimal Strokes==2, Total Test Cases==477, Total Test Cases With Optimal Strokes==247, Detailed Data of Test cases=={1: 114, 2: 247, 3: 108, 4: 7, 6: 1}
+Folder Name==MSA, Optimal Strokes==3, Total Test Cases==477, Total Test Cases With Optimal Strokes==251, Detailed Data of Test cases=={1: 20, 2: 159, 3: 251, 4: 46, 5: 1}
+Folder Name==M__, Optimal Strokes==1, Total Test Cases==477, Total Test Cases With Optimal Strokes==299, Detailed Data of Test cases=={1: 299, 2: 136, 3: 39, 4: 2, 6: 1}
+Folder Name==N__, Optimal Strokes==2, Total Test Cases==477, Total Test Cases With Optimal Strokes==233, Detailed Data of Test cases=={1: 194, 2: 233, 3: 47, 4: 2, 5: 1}
+Folder Name==OI_, Optimal Strokes==2, Total Test Cases==477, Total Test Cases With Optimal Strokes==412, Detailed Data of Test cases=={2: 412, 3: 55, 4: 10}
+Folder Name==OU_, Optimal Strokes==2, Total Test Cases==477, Total Test Cases With Optimal Strokes==436, Detailed Data of Test cases=={1: 1, 2: 436, 3: 28, 4: 12}
+Folder Name==O__, Optimal Strokes==1, Total Test Cases==477, Total Test Cases With Optimal Strokes==452, Detailed Data of Test cases=={1: 452, 2: 17, 3: 8}
+Folder Name==PH_, Optimal Strokes==2, Total Test Cases==477, Total Test Cases With Optimal Strokes==232, Detailed Data of Test cases=={1: 197, 2: 232, 3: 39, 4: 9}
+Folder Name==P__, Optimal Strokes==2, Total Test Cases==477, Total Test Cases With Optimal Strokes==222, Detailed Data of Test cases=={1: 62, 2: 222, 3: 125, 4: 61, 5: 7}
+Folder Name==RI_, Optimal Strokes==2, Total Test Cases==477, Total Test Cases With Optimal Strokes==197, Detailed Data of Test cases=={1: 14, 2: 197, 3: 176, 4: 55, 5: 28, 6: 4, 7: 3}
+Folder Name==R__, Optimal Strokes==2, Total Test Cases==477, Total Test Cases With Optimal Strokes==275, Detailed Data of Test cases=={2: 275, 3: 198, 4: 4}
+Folder Name==SA_, Optimal Strokes==1, Total Test Cases==477, Total Test Cases With Optimal Strokes==269, Detailed Data of Test cases=={1: 269, 2: 166, 3: 30, 4: 10, 5: 1, 6: 1}
+Folder Name==S__, Optimal Strokes==2, Total Test Cases==477, Total Test Cases With Optimal Strokes==253, Detailed Data of Test cases=={1: 40, 2: 253, 3: 124, 4: 56, 5: 2, 7: 2}
+Folder Name==TH_, Optimal Strokes==1, Total Test Cases==477, Total Test Cases With Optimal Strokes==376, Detailed Data of Test cases=={1: 376, 2: 69, 3: 31, 4: 1}
+Folder Name==TTH, Optimal Strokes==2, Total Test Cases==477, Total Test Cases With Optimal Strokes==330, Detailed Data of Test cases=={1: 103, 2: 330, 3: 40, 4: 3, 7: 1}
+Folder Name==TT_, Optimal Strokes==3, Total Test Cases==477, Total Test Cases With Optimal Strokes==241, Detailed Data of Test cases=={1: 43, 2: 167, 3: 241, 4: 24, 5: 2}
+Folder Name==T__, Optimal Strokes==2, Total Test Cases==477, Total Test Cases With Optimal Strokes==307, Detailed Data of Test cases=={1: 129, 2: 307, 3: 41}
+Folder Name==UN_, Optimal Strokes==1, Total Test Cases==477, Total Test Cases With Optimal Strokes==312, Detailed Data of Test cases=={1: 312, 2: 147, 3: 17, 4: 1}
+Folder Name==UU_, Optimal Strokes==4, Total Test Cases==477, Total Test Cases With Optimal Strokes==225, Detailed Data of Test cases=={1: 1, 2: 13, 3: 216, 4: 225, 5: 20, 6: 2}
+Folder Name==U__, Optimal Strokes==3, Total Test Cases==477, Total Test Cases With Optimal Strokes==233, Detailed Data of Test cases=={1: 21, 2: 210, 3: 233, 4: 12, 5: 1}
+Folder Name==YA_, Optimal Strokes==2, Total Test Cases==477, Total Test Cases With Optimal Strokes==241, Detailed Data of Test cases=={1: 199, 2: 241, 3: 29, 4: 6, 5: 2}
+Folder Name==Y__, Optimal Strokes==3, Total Test Cases==477, Total Test Cases With Optimal Strokes==288, Detailed Data of Test cases=={2: 143, 3: 288, 4: 43, 5: 2, 7: 1}
+Folder Name==_A_, Optimal Strokes==2, Total Test Cases==477, Total Test Cases With Optimal Strokes==306, Detailed Data of Test cases=={1: 113, 2: 306, 3: 45, 4: 12, 6: 1}
+Folder Name==_E_, Optimal Strokes==1, Total Test Cases==477, Total Test Cases With Optimal Strokes==294, Detailed Data of Test cases=={1: 294, 2: 175, 3: 7, 4: 1}
+Folder Name==_II, Optimal Strokes==2, Total Test Cases==477, Total Test Cases With Optimal Strokes==185, Detailed Data of Test cases=={1: 112, 2: 185, 3: 150, 4: 27, 5: 2, 6: 1}
+Folder Name==_I_, Optimal Strokes==3, Total Test Cases==477, Total Test Cases With Optimal Strokes==215, Detailed Data of Test cases=={1: 61, 2: 187, 3: 215, 4: 13, 5: 1}
+Folder Name==_OI, Optimal Strokes==2, Total Test Cases==477, Total Test Cases With Optimal Strokes==306, Detailed Data of Test cases=={1: 1, 2: 306, 3: 148, 4: 18, 5: 2, 6: 2}
+Folder Name==_OU, Optimal Strokes==3, Total Test Cases==477, Total Test Cases With Optimal Strokes==180, Detailed Data of Test cases=={2: 33, 3: 180, 4: 129, 5: 92, 6: 36, 7: 4, 8: 1, 9: 1, 10: 1}
+Folder Name==_O_, Optimal Strokes==3, Total Test Cases==477, Total Test Cases With Optimal Strokes==190, Detailed Data of Test cases=={2: 110, 3: 190, 4: 115, 5: 43, 6: 16, 7: 3}
+Folder Name==_RI, Optimal Strokes==1, Total Test Cases==477, Total Test Cases With Optimal Strokes==468, Detailed Data of Test cases=={1: 468, 2: 9}
+Folder Name==_UU, Optimal Strokes==1, Total Test Cases==477, Total Test Cases With Optimal Strokes==460, Detailed Data of Test cases=={1: 460, 2: 14, 3: 3}
+Folder Name==_U_, Optimal Strokes==1, Total Test Cases==477, Total Test Cases With Optimal Strokes==458, Detailed Data of Test cases=={1: 458, 2: 18, 3: 1}

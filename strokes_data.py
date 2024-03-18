@@ -5,7 +5,6 @@ from collections import Counter
 # List to store the counts for each file
 
 
-
 # Iterate through each file in the folder
 def optimal_number(folder_path):
     counts_list = []
@@ -19,16 +18,20 @@ def optimal_number(folder_path):
 
     # Print or use the counts_list as needed
     counter = Counter(counts_list)
-
+    counts_list_set=set(counts_list)
+    dict={}
+    for i in counts_list_set:
+        a = [j for j in counts_list if j==i]
+        dict[i] = len(a)
     # Use the most_common(1) method to get the most common element
-    res = counter.most_common(1)[0][0]
-    return res
+    res = counter.most_common(1)
+    return [res[0][0], len(counts_list), res[0][1], dict]
 
 
 def store_data(folder_name, folder_path, c):
     most_common_elem = optimal_number(folder_path)
-    stra = f'{folder_name}: {most_common_elem}'
-    file_path = 'output.txt'
+    stra = f'Folder Name=={folder_name}, Optimal Strokes=={most_common_elem[0]}, Total Test Cases=={most_common_elem[1]}, Total Test Cases With Optimal Strokes=={most_common_elem[2]}, Detailed Data of Test cases=={most_common_elem[3]}'
+    file_path = 'output_data.txt'
     with open(file_path, 'a') as file:
         file.write(stra + '\n')
     print(f'{folder_name} done, total completion {(c / 71) * 100}%')
